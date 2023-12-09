@@ -426,7 +426,6 @@ footer p{
         top: 0px;
     }  
     .menu li:not(#home):not(#avatar) {
-        /* Your styles here */
        padding: 40px;
     }
 }
